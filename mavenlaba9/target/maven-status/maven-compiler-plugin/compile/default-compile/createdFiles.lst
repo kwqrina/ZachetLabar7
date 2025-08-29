@@ -1,0 +1,7 @@
+view\UserApp.class
+publisher\PremiumButtonPublisher.class
+controller\UserController.class
+model\UserType.class
+factory\UserFactory.class
+model\User.class
+publisher\EventPublisher.class
